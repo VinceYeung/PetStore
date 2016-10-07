@@ -1,7 +1,7 @@
 
 /**
  * Model for pets we have for sale or adoption in our store.
- * hhuehf
+ * 
  * @author   
  * @version  
  */
